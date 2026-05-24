@@ -1,3 +1,7 @@
+# OBS! This has been moved to PotatoHotDog!
+
+# https://www.potatohotdog.com
+
 Here is a 2 min tutorial on how to create a "Notepad" to quickly scribble and take down notes inside your OBS Studio.
 
 Please note:

@@ -4,13 +4,13 @@ Archived fork of the original OBS Notepad project with the redirect banner remov
 
 ## Purpose
 
-This fork exists as a simple backup/self-hosted version of the original web-based notepad for OBS Studio browser sources.
+This fork exists as a simple backup/self-hosted version of the original web-based notepad for OBS Studio custom browser docks.
 
 The application stores notes locally in the browser using localStorage.
 
 ## Usage in OBS Studio
 
-Add a Browser Source in OBS Studio and point it to:
+Add a Custom Browser Dock in OBS Studio and point it to:
 
 ```txt
 https://obs-notepad.akashmenon.com

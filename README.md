@@ -1,25 +1,28 @@
-# OBS! This has been moved to PotatoHotDog!
+# OBS Notepad (Archived Fork)
 
-# https://www.potatohotdog.com
+Archived fork of the original OBS Notepad project with the redirect banner removed.
 
+## Purpose
 
---
---
---
---
+This fork exists as a simple backup/self-hosted version of the original web-based notepad for OBS Studio browser sources.
 
-Here is a 2 min tutorial on how to create a "Notepad" to quickly scribble and take down notes inside your OBS Studio.
+The application stores notes locally in the browser using localStorage.
 
-Please note:
-The notes data is private and stored locally inside your OBS application. It is not public and no one can access them.
+## Usage in OBS Studio
 
-Disclaimer:
-Notes can get lost if OBS update, so please don't save important stuff!
+Add a Browser Source in OBS Studio and point it to:
 
-# Watch the video tutorial
+```txt
+https://obs-notepad.akashmenon.com
+```
 
-https://www.youtube.com/watch?v=5eEcY93t-dg
+## Notes
 
-# This is the public URL to copy into your OBS
+* Notes are stored locally on the system/browser running OBS.
+* This repository is archived/minimally maintained.
+* Original project credit belongs to the original author.
 
-https://specialagentsqueaky.github.io/obs-notepad/
+## Original Project
+
+Repository:
+https://github.com/specialagentsqueaky/obs-notepad

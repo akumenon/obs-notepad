@@ -1,6 +1,6 @@
 # OBS Notepad (Archived Fork)
 
-Archived fork of the original OBS Notepad project with the redirect banner removed.
+Archived fork of the original OBS Notepad project with the redirect banner removed and the layout updated for proper full-height OBS dock support.
 
 ## Purpose
 

@@ -1,28 +1,33 @@
-# OBS Notepad (Archived Fork)
+# OBS Notepad
 
-Archived fork of the original OBS Notepad project with the redirect banner removed and the layout updated for proper full-height OBS dock support.
+A cleaned-up fork of the original OBS Notepad for OBS Studio.
 
-## Purpose
+This fork preserves the original lightweight notepad while removing the original migration/redirect messaging and making several improvements to the interface and overall user experience.
 
-This fork exists as a simple backup/self-hosted version of the original web-based notepad for OBS Studio custom browser docks.
+## What's Changed
 
-The application stores notes locally in the browser using localStorage.
+Compared to the original project, this fork:
+
+* Removes the PotatoHotDog migration/redirect banner and branding.
+* Modernizes and cleans up the interface.
+* Improves the layout for better compatibility with OBS Browser Docks.
+* Includes various usability and quality-of-life improvements while preserving the original lightweight design.
 
 ## Usage in OBS Studio
 
-Add a Custom Browser Dock in OBS Studio and point it to:
+Create a **Custom Browser Dock** in OBS Studio and use:
 
-```txt
+```text
 https://obs-notepad.akashmenon.com
 ```
 
 ## Notes
 
-* Notes are stored locally on the system/browser running OBS.
-* This repository is archived/minimally maintained.
-* Original project credit belongs to the original author.
+* Notes are stored locally on the machine running OBS.
 
-## Original Project
+## Credits
 
-Repository:
+This project is based on the original **OBS Notepad** by SpecialAgentSqueaky.
+
+Original repository:
 https://github.com/specialagentsqueaky/obs-notepad
